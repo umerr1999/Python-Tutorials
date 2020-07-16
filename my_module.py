@@ -4,6 +4,7 @@ def user_name(f_name,l_name,m_name=''):
     
     
 def area_of_circle(radius):
+    '''This function accepts only one parameter that is radius of circle anf output its area'''
     pi=3.142
     area=pi*(radius)**2
     return area
